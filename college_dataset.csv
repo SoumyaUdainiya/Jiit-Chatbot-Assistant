@@ -1,0 +1,469 @@
+question,intent,answer
+hi,greeting,Hello! I am JIIT Assistant. How can I help you today?
+hello,greeting,Hello! I am JIIT Assistant. How can I help you today?
+hey,greeting,Hi! How can I assist you?
+good morning,greeting,Good morning! How can I help you?
+good afternoon,greeting,Good afternoon! How can I assist you?
+good evening,greeting,Good evening! How can I help you?
+hi there,greeting,Hello! I am here to help.
+hello bot,greeting,Hello! I am JIIT Assistant. Ask me anything about JIIT.
+is anyone there,greeting,Yes I am here. How can I assist you?
+how are you,greeting,I am functioning perfectly and ready to help you.
+
+bye,greeting,Goodbye! Have a great day.
+goodbye,greeting,Goodbye! Have a great day.
+see you later,greeting,See you later! Have a wonderful day.
+exit,greeting,Closing session. Goodbye.
+quit,greeting,Session ended. Goodbye.
+talk to you later,greeting,Goodbye! Feel free to return anytime.
+
+thank you,greeting,You are welcome! Is there anything else I can help you with?
+thanks,greeting,Happy to help!
+thanks a lot,greeting,Glad I could help!
+appreciate it,greeting,You're most welcome!
+that was helpful,greeting,Happy to assist you anytime.
+
+help,greeting,I can provide information about admissions programs departments placements hostel ERP and campus facilities.
+what can you do,greeting,I answer questions related to JIIT academics departments services and campus life.
+how can you assist me,greeting,I provide academic and departmental information about JIIT.
+what services do you offer,greeting,I offer guidance about JIIT admissions academics placements and facilities.
+what can you help me with,greeting,I can assist with programs departments placements and campus information.
+how do you work,greeting,I classify your question and provide accurate information about JIIT.
+can you guide me,greeting,Yes I can guide you regarding academics departments and services.
+i need assistance,greeting,Please tell me your query about JIIT and I will assist you.
+
+what is jiit,college_overview,Jaypee Institute of Information Technology (JIIT) Noida was established in 2001 and became a deemed-to-be university in 2004. It is a premier private institution known for excellence in technical education research and innovation.
+tell me about jiit,college_overview,Jaypee Institute of Information Technology (JIIT) Noida is a deemed-to-be university established in 2001. It is accredited with an A grade by NAAC and its B.Tech programs are accredited by NBA. JIIT is recognized for strong academics research and placements.
+basic information about jiit,college_overview,JIIT was established in 2001 and granted deemed university status in 2004. It offers undergraduate postgraduate diploma and doctoral programs in engineering management and related fields.
+is jiit a deemed university,college_overview,Yes JIIT was conferred deemed-to-be university status in 2004 and is accredited with an A grade by NAAC.
+what is the full form of jiit,college_overview,JIIT stands for Jaypee Institute of Information Technology located in Noida Uttar Pradesh.
+when was jiit established,college_overview,Jaypee Institute of Information Technology was established in the year 2001 and became a deemed university in 2004.
+is jiit government or private,college_overview,JIIT is a private deemed-to-be university under the Jaypee Group educational institutions.
+who runs jiit,college_overview,JIIT is part of the Jaypee Group and operates as a private deemed-to-be university in Noida.
+where is jiit located,college_overview,JIIT is located in Noida Uttar Pradesh with campuses in Sector 62 and Sector 128.
+what are the accreditations of jiit,college_overview,JIIT is accredited with an A grade by NAAC and its B.Tech programs are accredited by NBA for 2024-2027.
+is jiit ranked in nirf,college_overview,JIIT has consistently featured in the 54-150 band in NIRF Engineering rankings since 2017.
+what facilities are available at jiit,college_overview,JIIT provides advanced facilities including a Digital Learning Centre Ramanujan Universe High Performance Computing Facility RIDE Innovation Hub BIONEST Incubators and over 140 research and teaching laboratories.
+what research facilities does jiit have,college_overview,JIIT has advanced research labs in VLSI 5G Brain Computer Interface AICTE IDEALab and high performance computing through the Ramanujan Universe facility.
+what is the vision of jiit,college_overview,The vision of JIIT is to become a Center of Excellence in IT and emerging areas of education training and research comparable to the best institutions globally producing leaders in innovation entrepreneurship creativity and management.
+state the vision of jiit,college_overview,JIIT aims to become a Center of Excellence in IT and related emerging fields for education training and research producing globally competitive professionals.
+what is the mission of jiit,college_overview,The mission of JIIT is to develop as a benchmark university in emerging technologies provide state of the art teaching learning and research environment and harness human capital for sustainable competitive edge and social relevance.
+state the mission of jiit,college_overview,JIIT mission includes developing excellence in emerging technologies creating advanced R&D environment and nurturing professionals for innovation entrepreneurship and societal contribution.
+what are the objectives of jiit,college_overview,JIIT focuses on excellence in academics research innovation entrepreneurship and industry oriented education to produce globally competent professionals.
+information about jiit,college_overview,Jaypee Institute of Information Technology (JIIT) Noida is a premier private deemed-to-be university established in 2001 and known for strong academics research and industry oriented education.
+overview of jiit,college_overview,JIIT Noida is a private deemed-to-be university established in 2001 offering undergraduate postgraduate and doctoral programs in engineering technology and management.
+introduction to jiit,college_overview,Jaypee Institute of Information Technology located in Noida was established in 2001 and became a deemed-to-be university in 2004.
+give a brief overview of jiit,college_overview,JIIT is a reputed private university in Noida offering engineering management and research programs with strong academic and research facilities.
+about jaypee institute of information technology,college_overview,Jaypee Institute of Information Technology is a premier technical institution in Noida offering programs in engineering technology and management.
+details about jiit university,college_overview,JIIT Noida is a private deemed-to-be university under the Jaypee Group known for quality education research facilities and strong placements.
+history of jiit,college_overview,JIIT was established in 2001 and later granted deemed-to-be university status in 2004 under the Jaypee Group educational institutions.
+background of jiit,college_overview,Jaypee Institute of Information Technology started in 2001 and has grown into a leading technical university in India.
+which university is jiit,college_overview,JIIT stands for Jaypee Institute of Information Technology a private deemed-to-be university located in Noida Uttar Pradesh.
+what kind of university is jiit,college_overview,JIIT is a private deemed-to-be university known for engineering technology management education and research.
+what type of institute is jiit,college_overview,JIIT is a premier engineering and technology institute offering undergraduate postgraduate and doctoral programs.
+why is jiit known,college_overview,JIIT is known for its strong academic curriculum research facilities innovation hubs and placement opportunities.
+what makes jiit special,college_overview,JIIT stands out for its modern research facilities strong industry connections and focus on innovation and entrepreneurship.
+
+where is jiit located,campus_location,JIIT is located in Noida Uttar Pradesh with campuses in Sector 62 and Sector 128.
+exact location of jiit,campus_location,JIIT has two campuses in Noida located in Sector 62 and Sector 128.
+jiit location in noida,campus_location,JIIT is situated in Noida with campuses at Sector 62 and Sector 128.
+location of jiit sector 62,campus_location,JIIT Sector 62 campus is located at A-10 Sector 62 Noida.
+location of jiit sector 128,campus_location,JIIT Sector 128 campus is located inside Jaypee Greens Society near the Noida Greater Noida Expressway.
+is sector 128 campus inside jaypee greens,campus_location,Yes the Sector 128 campus is located inside Jaypee Greens Society in Noida.
+where exactly is 128 campus,campus_location,The Sector 128 campus is inside Jaypee Greens residential society near the expressway.
+where is jiit 128 campus,campus_location,JIIT Sector 128 campus is located inside Jaypee Greens Society Noida.
+where is jiit 62 campus,campus_location,JIIT Sector 62 campus is located at A-10 Sector 62 Noida.
+how far is jiit from delhi,campus_location,JIIT is located in Noida and is well connected to Delhi via metro and road.
+nearest metro station to jiit,campus_location,JIIT Sector 62 campus is accessible via Noida Electronic City metro station.
+how to reach jiit sector 62,campus_location,JIIT Sector 62 campus can be reached via Noida Electronic City metro and road transport.
+how to reach jiit sector 128,campus_location,JIIT Sector 128 campus can be reached via the Noida Greater Noida Expressway inside Jaypee Greens.
+directions to jiit campus,campus_location,JIIT campuses are located in Sector 62 and Sector 128 Noida and are accessible via metro and road.
+jiit full address,campus_location,JIIT Sector 62 campus is at A-10 Sector 62 Noida and Sector 128 campus is inside Jaypee Greens Society.
+which sector is jiit in,campus_location,JIIT campuses are located in Sector 62 and Sector 128 Noida.
+is jiit in sector 62,campus_location,Yes one campus of JIIT is located in Sector 62 Noida.
+is jiit in sector 128,campus_location,Yes JIIT also has a campus in Sector 128 inside Jaypee Greens Society.
+landmark near jiit 128,campus_location,The Sector 128 campus is located inside Jaypee Greens Society near the Noida Greater Noida Expressway.
+landmark near jiit 62,campus_location,The Sector 62 campus is located near Noida Electronic City metro station.
+where is jiit in india,campus_location,JIIT is located in Noida Uttar Pradesh with campuses in Sector 62 and Sector 128.
+which city is jiit located in,campus_location,JIIT is located in the city of Noida in Uttar Pradesh India.
+which state is jiit in,campus_location,JIIT is located in the state of Uttar Pradesh in the city of Noida.
+where is jaypee institute of information technology located,campus_location,Jaypee Institute of Information Technology is located in Noida with campuses in Sector 62 and Sector 128.
+where is jiit noida located,campus_location,JIIT Noida has campuses in Sector 62 and Sector 128 in Uttar Pradesh.
+jiit address in noida,campus_location,JIIT Sector 62 campus is located at A-10 Sector 62 Noida while the Sector 128 campus is inside Jaypee Greens Society.
+what is the address of jiit noida,campus_location,The main JIIT campus address is A-10 Sector 62 Noida and another campus is located in Sector 128 inside Jaypee Greens Society.
+where can i find jiit campus,campus_location,JIIT campuses are located in Sector 62 and Sector 128 in Noida Uttar Pradesh.
+is jiit near delhi,campus_location,Yes JIIT is located in Noida which is part of the Delhi NCR region and is well connected to Delhi.
+how to locate jiit campus,campus_location,JIIT campuses are located in Sector 62 and Sector 128 Noida and can be reached by metro and road.
+
+jiit contact details,contact_query,You can contact JIIT at +91-120-2594300 or +91-120-2594400. Email info@jiit.ac.in and visit www.jiit.ac.in for official information.
+jiit phone number,contact_query,The official contact numbers of JIIT are +91-120-2594300 and +91-120-2594400.
+jiit contact number,contact_query,JIIT can be reached at +91-120-2594300 or +91-120-2594400.
+jiit helpline number,contact_query,The helpline numbers for JIIT are +91-120-2594300 and +91-120-2594400.
+jiit landline number,contact_query,The official landline numbers of JIIT are +91-120-2594300 and +91-120-2594400.
+jiit email address,contact_query,The official email address of JIIT is info@jiit.ac.in.
+jiit official email,contact_query,You can contact JIIT via email at info@jiit.ac.in.
+how to contact jiit,contact_query,You can contact JIIT by calling +91-120-2594300 or +91-120-2594400 or by emailing info@jiit.ac.in.
+how to contact jiit office,contact_query,JIIT administration can be contacted at +91-120-2594300 or through email at info@jiit.ac.in.
+contact information of jiit,contact_query,JIIT contact details include phone numbers +91-120-2594300 +91-120-2594400 and email info@jiit.ac.in.
+jiit administration contact,contact_query,For administration queries contact JIIT at +91-120-2594300 or info@jiit.ac.in.
+how do i reach jiit administration,contact_query,You can reach JIIT administration via phone at +91-120-2594300 or email info@jiit.ac.in.
+official website of jiit,contact_query,The official website of JIIT is www.jiit.ac.in.
+jiit website link,contact_query,The official website of JIIT is www.jiit.ac.in.
+what is the website of jiit,contact_query,JIIT official website is www.jiit.ac.in.
+where can i find jiit contact details,contact_query,JIIT contact details including phone and email are available at www.jiit.ac.in.
+jiit customer care number,contact_query,JIIT can be contacted at +91-120-2594300 or +91-120-2594400.
+jiit office phone number,contact_query,The office phone numbers of JIIT are +91-120-2594300 and +91-120-2594400.
+jiit support contact,contact_query,For support contact JIIT at +91-120-2594300 or email info@jiit.ac.in.
+jiit enquiry number,contact_query,For enquiries call +91-120-2594300 or +91-120-2594400.
+
+what programs does jiit offer,ug_program_query,JIIT offers B.Tech M.Tech MBA and PhD programs.
+does jiit offer btech,ug_program_query,Yes JIIT offers B.Tech programs in various disciplines.
+does jiit offer mtech,ug_program_query,Yes JIIT offers M.Tech programs.
+does jiit offer phd,ug_program_query,Yes JIIT offers PhD programs.
+how many years is btech,ug_program_query,B.Tech is a 4 year program.
+branches available in jiit,ug_program_query,JIIT offers CSE ECE IT Biotechnology and other branches.
+what courses are available at jiit,ug_program_query,Undergraduate and postgraduate technical programs are available.
+is mba available in jiit,ug_program_query,Yes MBA program is offered.
+
+how to get admission in jiit,admission_query,Admission to JIIT B.Tech programs is based on JEE Main score followed by online counseling and seat allotment.
+admission process of jiit,admission_query,Students apply online using their JEE Main score and participate in counseling for seat allocation.
+how can i take admission in jiit,admission_query,You must qualify JEE Main and register for JIIT counseling to secure admission.
+what is the admission procedure at jiit,admission_query,Admission procedure includes JEE Main qualification online application counseling and document verification.
+documents required for jiit admission,admission_query,Required documents include JEE Main scorecard Class 10 and 12 mark sheets identity proof and passport size photographs.
+how to apply for jiit,admission_query,You can apply online through the official JIIT website using your JEE Main details.
+when does admission start in jiit,admission_query,Admissions usually start after JEE Main results are declared.
+cutoff for jiit,admission_query,JIIT cutoff varies every year depending on JEE Main ranks and seat availability.
+eligibility for jiit admission,admission_query,Students must qualify JEE Main and meet minimum academic requirements in Class 12.
+minimum marks required for jiit,admission_query,Candidates must meet the minimum eligibility criteria in Physics Mathematics and other required subjects as per JIIT guidelines.
+seat allotment process at jiit,admission_query,Seats are allotted based on JEE Main rank preference and availability during counseling rounds.
+is direct admission possible in jiit,admission_query,Admissions are primarily based on JEE Main performance and counseling process.
+does jiit accept jee main score,admission_query,Yes JIIT admissions for B.Tech are based on JEE Main scores.
+how many counseling rounds in jiit,admission_query,JIIT conducts multiple counseling rounds depending on seat availability.
+how to register for jiit counseling,admission_query,Students must register online on the JIIT admission portal after JEE Main results.
+can i get admission without jee,admission_query,Admission to B.Tech programs at JIIT is generally based on JEE Main qualification.
+admission criteria for btech at jiit,admission_query,B.Tech admission is based on JEE Main rank academic eligibility and counseling process.
+what entrance exam is required for jiit,admission_query,JEE Main is the required entrance exam for B.Tech admission at JIIT.
+is there management quota in jiit,admission_query,Admission policies including seat categories are governed by official guidelines published on the JIIT website.
+where can i check jiit admission updates,admission_query,Admission notifications and updates are available on the official JIIT website.
+
+minimum attendance in jiit,academic_query,Students must maintain at least 75 percent attendance to be eligible for examinations.
+attendance criteria at jiit,academic_query,Minimum 75 percent attendance is mandatory in each subject.
+is 75 percent attendance compulsory,academic_query,Yes students are required to maintain 75 percent attendance.
+what happens if attendance is below 75,academic_query,If attendance is below 75 percent students may not be allowed to appear in examinations.
+attendance shortage rules,academic_query,Shortage of attendance may lead to detention from semester examinations.
+cgpa system in jiit,academic_query,JIIT follows a 10 point CGPA grading system.
+how is cgpa calculated in jiit,academic_query,CGPA is calculated on a 10 point grading scale based on semester performance.
+grading pattern at jiit,academic_query,JIIT follows a credit based 10 point grading system.
+exam pattern at jiit,academic_query,Exams are conducted semester wise including internal and end semester evaluations.
+internal marks system at jiit,academic_query,Internal assessment includes assignments quizzes and mid semester exams.
+how many semesters are there in btech,academic_query,B.Tech program at JIIT consists of 8 semesters.
+semester structure of jiit,academic_query,The academic system at JIIT follows a semester based structure.
+backlog rules in jiit,academic_query,Students must clear backlogs as per academic regulations mentioned in ERP.
+where can i check exam schedule,academic_query,Exam schedules are published on the ERP portal.
+
+jiit fee details,academic_query,B.Tech tuition fee at JIIT is approximately 3 to 4 lakhs per year excluding hostel charges.
+what is the hostel fees, academic_query, The hostel fees is 1 lakh per semester excluding bus charges. 
+how much is semester wise fees in jiit,academic_query,B.Tech annual tuition fee ranges between 1.7 to 2.0 lakhs per semester.
+how much is fees in jiit,academic_query,B.Tech annual tuition fee ranges between 1.7 to 2.0 lakhs per semester.
+how to pay semester fee,academic_query,Semester fees can be paid online through the ERP portal.
+payment method for jiit fees,academic_query,Students can pay fees via ERP using online payment options.
+scholarship in jiit,academic_query,JIIT offers merit based and government scholarships to eligible students.
+types of scholarships at jiit,academic_query,Scholarships include merit scholarships and government sponsored schemes.
+how to login to erp,academic_query,Students can login to erp.jiit.ac.in using enrollment number and password.
+erp portal link,academic_query,The ERP portal can be accessed at erp.jiit.ac.in.
+how to reset erp password,academic_query,Use the forgot password option on ERP login page to reset password.
+hostel availability at jiit,academic_query,Hostel accommodation is available for students on campus.
+is wifi available in hostel,academic_query,Yes WiFi connectivity is available in hostels.
+library timing at jiit,academic_query,Library timing details are available on campus notice board and ERP.
+how to download admit card,academic_query,Admit cards can be downloaded from the ERP portal before examinations.
+medical facility in hostel,academic_query,Medical assistance is available for hostel residents.
+
+placement statistics of jiit,placement_query,JIIT has strong placement records with top companies visiting every year.
+placement record of jiit,placement_query,JIIT maintains a good placement record across various branches.
+highest salary package in jiit,placement_query,Highest packages at JIIT have reached up to 40 to 60 LPA depending on year and branch.
+average salary package in jiit,placement_query,Average salary package varies by branch and academic year.
+top recruiters at jiit,placement_query,Top recruiters include Microsoft Amazon Infosys TCS and other reputed companies.
+which companies visit jiit,placement_query,Leading IT and core companies visit JIIT for campus placements.
+does jiit provide internships,placement_query,Internship opportunities are facilitated by the placement cell.
+placement support at jiit,placement_query,The Training and Placement Cell provides career guidance and recruitment support.
+training and placement cell details,placement_query,The Training and Placement Cell manages campus recruitment internship coordination and industry interaction.
+placement percentage of jiit,placement_query,Placement percentage varies each year depending on branch and industry demand.
+are placements good in jiit,placement_query,Placements at JIIT are considered strong especially in CSE and IT branches.
+how to register for placements,placement_query,Students must register through the placement portal to participate in campus recruitment.
+career opportunities after btech from jiit,placement_query,Students receive opportunities in software development core engineering consulting and research roles.
+does jiit have good placement cell,placement_query,Yes JIIT has an active Training and Placement Cell supporting student recruitment.
+how are placements at jiit,placement_query,Placements at JIIT are considered strong with top technology and consulting companies visiting the campus.
+jiit placement details,placement_query,JIIT offers strong placement opportunities through its Training and Placement Cell with many companies recruiting students every year.
+placement scenario at jiit,placement_query,The placement scenario at JIIT is strong with students placed in reputed companies across different sectors.
+what is the placement record of jiit,placement_query,JIIT has maintained a strong placement record with top recruiters visiting the campus annually.
+does jiit have good placement opportunities,placement_query,Yes JIIT provides good placement opportunities through campus recruitment and internship programs.
+placement opportunities in jiit,placement_query,Students at JIIT receive placement opportunities in software development engineering consulting and other industries.
+what companies recruit from jiit,placement_query,Companies such as Microsoft Amazon Infosys TCS and other leading firms recruit from JIIT.
+does jiit offer campus placements,placement_query,Yes JIIT offers campus placements through its Training and Placement Cell.
+what is the average placement package at jiit,placement_query,The average placement package at JIIT varies depending on the branch and recruiting companies.
+what is the highest placement package at jiit,placement_query,The highest packages at JIIT have reached up to 40 to 60 LPA depending on the year.
+placement assistance in jiit,placement_query,JIIT provides placement assistance through training programs recruitment drives and industry connections.
+does jiit provide placement training,placement_query,Yes the Training and Placement Cell conducts training sessions workshops and career guidance programs.
+internship support at jiit,placement_query,JIIT supports internships through its placement cell and industry collaborations.
+how does placement process work at jiit,placement_query,Students register on the placement portal and participate in recruitment drives conducted by visiting companies.
+what career options after studying at jiit,placement_query,Graduates from JIIT pursue careers in software engineering electronics consulting research and entrepreneurship.
+
+library location,campus_life_query,The Learning Resource Centre (LRC) library is located just in front of Annapurna Mess at the JIIT 128 campus.
+where is the library in jiit,campus_life_query,The Learning Resource Centre (LRC) is situated directly opposite Annapurna Mess on campus.
+where is lrc located,campus_life_query,The LRC or Learning Resource Centre is located just in front of Annapurna Mess.
+location of learning resource centre,campus_life_query,The Learning Resource Centre is positioned opposite Annapurna Mess.
+where can i find the library,campus_life_query,You can find the LRC library right in front of Annapurna Mess.
+is library near mess,campus_life_query,Yes the Learning Resource Centre is located just opposite Annapurna Mess.
+what is lrc in jiit,campus_life_query,LRC stands for Learning Resource Centre which is the central library of JIIT.
+full form of lrc,campus_life_query,LRC stands for Learning Resource Centre which functions as the main library.
+where is vlsi lab,campus_life_query,The VLSI Lab is located on the first floor above  cafeteria.
+vlsi lab location,campus_life_query,The VLSI laboratory is situated on the first floor above cafeteria.
+where can i find vlsi lab,campus_life_query,The VLSI lab is located upstairs above  cafeteria.
+where is annapurna,campus_life_query,Annapurna is the main mess facility located in the 128 campus on ground floor in front of library .
+annapurna mess location,campus_life_query,Annapurna Mess is located on the ground floor in front of library before cafe.
+mess location in jiit,campus_life_query,The main mess called Annapurna is located on thw ground floor in front of library before cafe.
+annapurna token price,campus_life_query,The Annapurna meal token currently costs around 80 rupees.
+how much is annapurna meal,campus_life_query,Annapurna meal token price is approximately 80 rupees.
+how many cafeterias are there in jiit,campus_life_query,There are two cafeterias at JIIT one located ahead of Annapurna and another on the first floor above Annapurna.
+where is cafeteria in jiit,campus_life_query,One cafeteria is located ahead of Annapurna and another is situated on the first floor above it.
+cafeteria location,campus_life_query,JIIT has two cafeterias one in front area of Annapurna and one upstairs above Annapurna.
+sports facilities at jiit,campus_life_query,JIIT has sports facilities including cricket basketball badminton and gym.
+does jiit have gym,campus_life_query,Yes JIIT has a gym facility as part of the sports complex.
+clubs in jiit,campus_life_query,JIIT has technical cultural and sports clubs for students.
+how to join club,campus_life_query,Club registrations open at the beginning of the academic year.
+annual fest of jiit,campus_life_query,Technical fest is Parallax and cultural fest is Opulence.
+parking facility in jiit,campus_life_query,Parking is available near the main gates of the campus.
+medical facility in jiit,campus_life_query,A medical center facility is available within the campus.
+atm in jiit,campus_life_query,ATMs are available near the campus entrance in sector 62 main campus not in 128.
+
+tell me about the electronics and communication department,department_query,The Department of Electronics and Communication Engineering at JIIT focuses on excellence in education training and research in electronics and communication technologies.
+what is the vision of ece department,department_query,The vision of the ECE department is to be a centre of excellence in education training and research in Electronics and Communication Engineering to cultivate technically competent professionals for industry academia and society.
+what is the mission of ece department,department_query,The mission of the ECE department is to provide contemporary and flexible curricula promote cutting edge research and develop technical and entrepreneurial skills for socially relevant solutions.
+what is mission 1 of ece department,department_query,Mission 1 is to impart education through contemporary futuristic and flexible curricula with innovative teaching methods and hands on training using well equipped labs.
+what is mission 2 of ece department,department_query,Mission 2 is to carry out cutting edge research in various areas of Electronics and Communication Engineering.
+what is mission 3 of ece department,department_query,Mission 3 is to inculcate technical and entrepreneurial skills in professionals to provide socially relevant and sustainable solutions.
+who is the dean of ece department,department_query,The Dean associated with the ECE department is Professor Shweta Srivastava.
+who is the hod of ece department,department_query,The Head of Department of Electronics and Communication Engineering is Professor Aarti Noor.
+who is the department coordinator of ece,department_query,The department coordinator of ECE is Professor Jitendra Mohan.
+who are the professors in ece department,department_query,Faculty members in the ECE department include Professor Bhartendu Chaturvedi Professor Sajaivir Singh Professor Jitendra Mohan and Professor Aarti Noor.
+name some faculty members of ece department,department_query,Some faculty members in ECE are Professor Bhartendu Chaturvedi Professor Sajaivir Singh Professor Jitendra Mohan and Professor Aarti Noor.
+who is professor bhartendu chaturvedi,department_query,Professor Bhartendu Chaturvedi is a faculty member in the Electronics and Communication Engineering department at JIIT.
+who is professor sajaivir singh,department_query,Professor Sajaivir Singh is a faculty member in the Electronics and Communication Engineering department at JIIT.
+who is professor jitendra mohan,department_query,Professor Jitendra Mohan is a faculty member and department coordinator in the Electronics and Communication Engineering department at JIIT.
+what does the ece department focus on,department_query,The ECE department focuses on electronics communication systems research innovation and practical laboratory training.
+what labs are in ece department,department_query,The ECE department has well equipped laboratories including VLSI communication electronics and signal processing labs.
+
+tell me about the cse department,department_query,The Department of Computer Science and Engineering and Information Technology at JIIT focuses on quality education research and innovation in computing IT and entrepreneurship.
+tell me about the computer science department,department_query,The CSE and IT department at JIIT provides quality education and conducts research in computer science information technology and emerging computing areas.
+what is the vision of cse department,department_query,The vision of the CSE and IT department is to be a centre of excellence in providing quality education and conducting cutting edge research to develop future leaders in computing IT and entrepreneurship.
+what is the mission of cse department,department_query,The mission of the CSE and IT department is to provide state of the art curriculum promote research in emerging areas and develop entrepreneurial and IT skills.
+what is mission 1 of cse department,department_query,Mission 1 is to offer academic programs with state of the art curriculum having flexibility to accommodate latest developments in computer science and IT.
+what is mission 2 of cse department,department_query,Mission 2 is to conduct research and development activities in contemporary and emerging areas of computer science engineering and IT.
+what is mission 3 of cse department,department_query,Mission 3 is to inculcate IT and entrepreneurial skills to produce professionals capable of providing socially relevant and sustainable solutions.
+who is the head of cse department,department_query,The Head of the Department of Computer Science and Engineering is Professor Shikha Mehta.
+who is the hod of cse department,department_query,The Head of Department of CSE and IT is Professor Shikha Mehta.
+who is associate hod of cse department,department_query,Professor Manish Kumar Thakur is Professor and Associate Head of the CSE and IT department.
+who is professor manish kumar thakur,department_query,Professor Manish Kumar Thakur is a Professor and Associate HoD in the Department of Computer Science and Engineering and Information Technology at JIIT.
+what does the cse department focus on,department_query,The CSE and IT department focuses on computing technologies software systems artificial intelligence data science cybersecurity and emerging IT fields.
+what labs are in cse department,department_query,The CSE and IT department has well equipped laboratories for programming networking artificial intelligence data science and cybersecurity.
+what courses are offered by cse department,department_query,The CSE and IT department offers B.Tech M.Tech and research programs in computer science and information technology.
+who are the faculty members in cse department,department_query,The CSE and IT department includes Professor Shikha Mehta Professor Manish Kumar Thakur and other experienced faculty members specializing in computing and IT.
+
+tell me about the mathematics department,department_query,The Department of Mathematics at JIIT focuses on excellence in teaching and research in both basic and applied areas of Mathematics.
+tell me about math department,department_query,The Mathematics department provides strong foundations in pure and applied mathematics along with research activities.
+what is the vision of mathematics department,department_query,The vision of the Mathematics department is to be a centre of excellence in teaching and research in basic and applied areas of Mathematics.
+what is the mission of mathematics department,department_query,The mission of the Mathematics department is to offer academic programs in emerging areas conduct quality research and foster national and international collaborations.
+what is mission 1 of mathematics department,department_query,Mission 1 is to offer academic programs and courses in contemporary and emerging areas of Mathematics and its applications to develop analytical and problem solving skills.
+what is mission 2 of mathematics department,department_query,Mission 2 is to carry out quality research in emerging areas of pure and applied Mathematics.
+what is mission 3 of mathematics department,department_query,Mission 3 is to foster interaction with national and international institutions for enrichment application and dissemination of knowledge in Mathematics.
+who is the hod of mathematics department,department_query,The Head of the Department of Mathematics is Professor Alka Tripathi.
+who is professor alka tripathi,department_query,Professor Alka Tripathi is Professor and Head of the Mathematics Department at JIIT.
+who is professor goldie gabrani,department_query,Professor Goldie Gabrani is a Professor in the Department of Mathematics at JIIT.
+who are faculty members in mathematics department,department_query,Faculty members in the Mathematics department include Professor Alka Tripathi and Professor Goldie Gabrani.
+what does the mathematics department focus on,department_query,The Mathematics department focuses on pure mathematics applied mathematics research and analytical problem solving skills.
+what courses are taught by mathematics department,department_query,The Mathematics department offers foundational and advanced courses in pure mathematics applied mathematics and mathematical applications.
+who are professors in mathematics department,department_query,Faculty members in the Mathematics department include Professor Alka Tripathi and Professor Goldie Gabrani.
+name professors of mathematics department,department_query,Faculty members in the Mathematics department include Professor Alka Tripathi and Professor Goldie Gabrani.
+professors in math department,department_query,Faculty members in the Mathematics department include Professor Alka Tripathi and Professor Goldie Gabrani.
+faculty of mathematics department,department_query,Faculty members in the Mathematics department include Professor Alka Tripathi and Professor Goldie Gabrani.
+who teaches in mathematics department,department_query,Faculty members in the Mathematics department include Professor Alka Tripathi and Professor Goldie Gabrani.
+list professors of mathematics department,department_query,Faculty members in the Mathematics department include Professor Alka Tripathi and Professor Goldie Gabrani.
+who are teachers in mathematics department,department_query,Faculty members in the Mathematics department include Professor Alka Tripathi and Professor Goldie Gabrani.
+math department faculty members,department_query,Faculty members in the Mathematics department include Professor Alka Tripathi and Professor Goldie Gabrani.
+
+what undergraduate programs does jiit offer,ug_program_query,JIIT offers undergraduate programs including B.Tech in multiple specializations B.Sc in Computer Science BBA and BCA.
+list btech programs in jiit,ug_program_query,JIIT offers B.Tech programs in Biotechnology Computer Science and Engineering Electronics and Communication Engineering Information Technology Electronics and Computer Engineering VLSI Design Mathematics and Computing Robotics and Artificial Intelligence and Cyber Security.
+what branches are available in btech,ug_program_query,B.Tech branches include CSE ECE IT Biotechnology Mathematics and Computing VLSI Electronics and Computer Engineering Robotics and AI and Cyber Security.
+does jiit offer btech in cse,ug_program_query,Yes JIIT offers B.Tech in Computer Science and Engineering including specialization in Cyber Security.
+does jiit offer btech in ece,ug_program_query,Yes JIIT offers B.Tech in Electronics and Communication Engineering including Advanced Communication Technology specialization.
+does jiit offer biotechnology,ug_program_query,Yes JIIT offers B.Tech in Biotechnology with research oriented and industry focused curriculum.
+does jiit offer robotics and ai,ug_program_query,Yes JIIT offers B.Tech in Robotics and Artificial Intelligence focusing on AI IoT and emerging technologies.
+does jiit offer mathematics and computing,ug_program_query,Yes JIIT offers B.Tech in Mathematics and Computing combining mathematics statistics and computer science.
+does jiit offer vlsi specialization,ug_program_query,Yes JIIT offers B.Tech in Electronics Engineering with specialization in VLSI Design and Technology.
+what is electronics and computer engineering at jiit,ug_program_query,Electronics and Computer Engineering is a hybrid program combining electronics hardware and computer science software concepts aligned with industry needs.
+what is advanced communication technology program,ug_program_query,Advanced Communication Technology focuses on 5G Massive MIMO Beamforming mmWave and advanced telecom technologies.
+what is the duration of btech at jiit,ug_program_query,B.Tech at JIIT is a four year undergraduate program consisting of eight semesters.
+is internship compulsory in btech,ug_program_query,Yes a mandatory industrial internship after the sixth semester is part of the B.Tech program.
+what is project oriented practice in jiit,ug_program_query,Project Oriented Practice POP is a structured minor project system from second to sixth semester to strengthen practical learning.
+what happens in final year of btech,ug_program_query,In the final year students complete a major project emphasizing research design and development skills.
+does jiit provide industrial training,ug_program_query,Yes students undergo mandatory six week industrial training after third year.
+what is education methodology at jiit,ug_program_query,Education methodology includes lectures self study tutorials lab work assignments projects research internships seminars and continuous evaluation.
+what core subjects are taught in cse,ug_program_query,Core subjects in CSE include Object Oriented Programming Algorithms Operating Systems Computer Networks Software Engineering Compiler Design and Computer Architecture.
+what makes ece program strong,ug_program_query,ECE program emphasizes strong mathematical foundation laboratory work VLSI RF Engineering Digital Systems and Communication Engineering.
+what labs are available in btech programs,ug_program_query,B.Tech programs include state of the art laboratories for VLSI communication signal processing AI networking and embedded systems.
+does jiit offer bsc computer science,ug_program_query,Yes JIIT offers Bachelor of Science in Computer Science focusing on computational thinking programming and IT applications.
+does jiit offer bba,ug_program_query,Yes JIIT offers Bachelor of Business Administration with specializations in General Management Business Analytics Digital Marketing Operations and Banking.
+does jiit offer bca,ug_program_query,Yes JIIT offers Bachelor of Computer Applications focusing on programming database systems networks and software development.
+what career options after bca from jiit,ug_program_query,BCA graduates can pursue careers in software development IT consultancy system administration and higher studies in computer science.
+what specialization options are available in bba,ug_program_query,BBA specializations include General Management Business Analytics Digital Marketing Operations Management and Banking and Insurance.
+what is mathematics and computing program about,ug_program_query,Mathematics and Computing program builds strong foundation in mathematics statistics and computing for applications in finance healthcare e commerce and analytics.
+what is vlsi program about,ug_program_query,VLSI program focuses on semiconductor devices chip design FPGA verification and fabrication processes aligned with India semiconductor mission.
+what is robotics and ai program about,ug_program_query,Robotics and AI program prepares students in artificial intelligence automation IoT embedded systems and intelligent system design.
+what electives are available in btech,ug_program_query,B.Tech students can choose electives based on specialization and market demand especially in fourth year.
+are there research opportunities in btech,ug_program_query,Yes students undertake research oriented minor and major projects and often publish their work.
+
+what postgraduate programs does jiit offer,pg_program_query,JIIT offers postgraduate programs including M.Tech in Biotechnology Computer Science and Engineering and VLSI Design along with MBA and MCA programs.
+list mtech programs in jiit,pg_program_query,M.Tech programs at JIIT include Biotechnology Computer Science and Engineering and VLSI Design.
+does jiit offer mtech,pg_program_query,Yes JIIT offers M.Tech programs in Biotechnology Computer Science and Engineering and VLSI Design.
+does jiit offer mba,pg_program_query,Yes JIIT offers MBA program focused on management business analytics and leadership development.
+does jiit offer mca,pg_program_query,Yes JIIT offers MCA program focused on advanced computing software development and IT industry skills.
+what is duration of mtech at jiit,pg_program_query,M.Tech at JIIT is a two year program spread across four semesters.
+how many semesters are in mtech,pg_program_query,M.Tech programs are completed in four semesters over two years.
+is dissertation compulsory in mtech,pg_program_query,Yes M.Tech includes dissertation work in the last two semesters with fourth semester fully devoted to dissertation.
+what is objective of mtech program,pg_program_query,M.Tech programs aim to prepare professionals with advanced knowledge for industry research and academic careers including PhD studies.
+does mtech include internship,pg_program_query,Yes students may pursue industrial internship or research dissertation in the second year.
+what specializations are available in mtech cse,pg_program_query,M.Tech CSE offers specialization in AI and ML Data Science IoT Cyber Security and related computing domains.
+what is mtech biotechnology about,pg_program_query,M.Tech Biotechnology focuses on advanced research in life sciences biotechnology and industry oriented applications.
+what is mtech cse about,pg_program_query,M.Tech CSE provides advanced education in computing including machine learning data science cloud computing and big data.
+what is mtech vlsi design about,pg_program_query,M.Tech VLSI Design focuses on semiconductor fabrication chip design FPGA and integrated circuit technologies.
+does jiit have fabrication lab for vlsi,pg_program_query,Yes JIIT has a specialized fabrication laboratory for semiconductor device design and characterization.
+what career options after mtech cse,pg_program_query,M.Tech CSE graduates can work in AI ML software development data science research or pursue PhD.
+what career options after mtech biotechnology,pg_program_query,M.Tech Biotechnology graduates can work in biotech companies research labs academia or start ventures.
+what career options after mtech vlsi,pg_program_query,M.Tech VLSI graduates can work in chip design electronics manufacturing semiconductor and communication industries.
+does mca include project work,pg_program_query,Yes MCA includes core courses elective subjects and dissertation or project work.
+what subjects are covered in mca,pg_program_query,MCA includes programming database systems networking software engineering and advanced computing subjects.
+what career options after mca,pg_program_query,MCA graduates can work as software developers data scientists system analysts database administrators or IT consultants.
+is mba at jiit industry oriented,pg_program_query,Yes MBA curriculum is designed to align with industry standards and develop managerial and analytical skills.
+
+does jiit offer integrated mtech,ug_program_query,Yes JIIT offers 5 year Integrated M.Tech programs leading to both B.Tech and M.Tech degrees.
+what is integrated mtech program at jiit,ug_program_query,Integrated M.Tech is a 5 year dual degree program where students complete B.Tech requirements and advanced M.Tech coursework to earn both degrees.
+how many years is integrated mtech at jiit,ug_program_query,Integrated M.Tech at JIIT is a five year dual degree program.
+what branches are available in integrated mtech,ug_program_query,Integrated M.Tech programs are available in Biotechnology Electronics and Communication Engineering and Computer Science and Engineering.
+does jiit offer dual degree programs,ug_program_query,Yes JIIT offers dual degree 5 year Integrated M.Tech programs in selected branches.
+what is integrated mtech biotechnology,ug_program_query,Integrated M.Tech Biotechnology combines B.Tech and advanced M.Tech level courses including research methodology drug delivery and metagenomics.
+what is integrated mtech ece,ug_program_query,Integrated M.Tech in Electronics and Communication includes advanced subjects like Digital Signal Processing Wireless Communication VLSI Modeling and Software Defined Radio.
+what is integrated mtech cse,ug_program_query,Integrated M.Tech in Computer Science covers algorithms operating systems security databases embedded systems and research oriented projects.
+what subjects are taught in integrated ece,ug_program_query,Integrated ECE includes Advanced DSP Wireless Communication VLSI Modeling FPGA Design Speech Processing System on Chip and Fiber Optic Communication.
+what subjects are taught in integrated cse,ug_program_query,Integrated CSE includes Algorithms Programming Languages Software Engineering Operating Systems Networks Security Web Technologies and Embedded Systems.
+what is benefit of integrated mtech,ug_program_query,Integrated M.Tech allows students to earn both B.Tech and M.Tech degrees in five years with deeper specialization and research exposure.
+does integrated mtech include research project,ug_program_query,Yes the fifth year of Integrated M.Tech includes an advanced research project building on previous minor and major projects.
+is internship included in integrated mtech,ug_program_query,Yes integrated programs include industrial internship similar to regular B.Tech programs.
+what career options after integrated mtech,ug_program_query,Graduates of Integrated M.Tech programs can pursue careers in industry research organizations higher studies or doctoral programs.
+
+what is jiit youth club,jyc_query,JIIT Youth Club also known as JYC is the main student body of JIIT that promotes holistic development enthusiasm and student engagement through events and extracurricular activities.
+what is jyc,jyc_query,JYC stands for JIIT Youth Club and it is the central student organization of JIIT.
+tell me about jiit youth club,jyc_query,JIIT Youth Club is the sole student body that organizes fests events parties treks and extracurricular activities for overall student development.
+what does jyc do,jyc_query,JYC organizes cultural technical literary and recreational events to enhance teamwork leadership and confidence among students.
+role of jyc in jiit,jyc_query,JYC plays a key role in student engagement by organizing events fests and activities beyond academics.
+why is jyc important,jyc_query,JYC is important because it promotes holistic growth teamwork enthusiasm and leadership among students.
+is jyc the main student body,jyc_query,Yes JIIT Youth Club is the main and sole student body of JIIT.
+who manages clubs in jiit,jyc_query,JIIT Youth Club oversees and coordinates various cultural technical and literary activities in the college.
+what activities are organized by jyc,jyc_query,JYC organizes events fests parties treks and various extracurricular activities.
+does jyc organize fests,jyc_query,Yes JYC plays a major role in organizing college fests and student events.
+faculty advisor of jyc,jyc_query,The Faculty Advisor of JYC is Dr Manish Kumar Thakur Professor and Associate Head of the Department of CSE and IT.
+who is faculty advisor of jyc,jyc_query,Dr Manish Kumar Thakur is the Faculty Advisor of JIIT Youth Club.
+associate faculty advisor of jyc,jyc_query,Associate Faculty Advisors of JYC include Dr Ankur Bhardwaj and Sh Ritesh Kumar Sharma.
+who is dr ankur bhardwaj,jyc_query,Dr Ankur Bhardwaj is Associate Faculty Advisor of JYC and Assistant Professor Senior Grade in the Department of ECE.
+who is ritesh kumar sharma,jyc_query,Sh Ritesh Kumar Sharma is Associate Faculty Advisor of JYC and Assistant Professor in the Department of ECE.
+student coordinator of jyc,jyc_query,The Student Coordinator of JYC for 2023-24 is Mr Prakhar Kumar Singh.
+who is prakhar kumar singh,jyc_query,Mr Prakhar Kumar Singh is the Student Coordinator of JYC for the academic year 2023-24.
+contact of jyc coordinator,jyc_query,The Student Coordinator of JYC 2023-24 is Mr Prakhar Kumar Singh Mob 9897239360.
+email of jyc faculty advisor,jyc_query,The Faculty Advisor Dr Manish Kumar Thakur can be contacted at manish.thakur@mail.jiit.ac.in.
+email of jyc associate faculty advisor,jyc_query,Associate Faculty Advisor Dr Ankur Bhardwaj can be contacted at ankur.bhardwaj@mail.jiit.ac.in.
+who is the core committe head of JYC,jyc_query,Core Committe head of JYC is Prachi Bhagat.
+
+who are faculty in ece,faculty_query,Faculty members in Electronics and Communication Engineering include Professor Shweta Srivastava Professor Arti Noor Professor Jitendra Mohan Professor Sajai Vir Singh Professor Vineet Khandelwal Professor Vivek Dwivedi Professor Ashish Goel Professor Vijay Khare Professor Jasmine Saini Professor Alok Joshi Professor Bhartendu Chaturvedi Professor Megha Agarwal Professor Richa Gupta and many associate and assistant professors.
+list faculty of ece department,faculty_query,The ECE department faculty includes Professor Shweta Srivastava Professor Arti Noor Professor Jitendra Mohan Professor Sajai Vir Singh Professor Vineet Khandelwal Professor Vivek Dwivedi Professor Ashish Goel Professor Vijay Khare Professor Jasmine Saini Professor Alok Joshi Professor Bhartendu Chaturvedi Professor Megha Agarwal Professor Richa Gupta and other faculty members.
+ece faculty members,faculty_query,Faculty members in ECE include Professor Shweta Srivastava Professor Arti Noor Professor Jitendra Mohan Professor Sajai Vir Singh Professor Vineet Khandelwal Professor Vivek Dwivedi Professor Ashish Goel Professor Vijay Khare Professor Jasmine Saini Professor Alok Joshi Professor Bhartendu Chaturvedi Professor Megha Agarwal Professor Richa Gupta and more.
+who teaches in ece department,faculty_query,Teaching faculty in ECE department includes Professor Shweta Srivastava Professor Arti Noor Professor Jitendra Mohan Professor Sajai Vir Singh Professor Vineet Khandelwal Professor Vivek Dwivedi Professor Ashish Goel Professor Vijay Khare Professor Jasmine Saini Professor Alok Joshi Professor Bhartendu Chaturvedi Professor Megha Agarwal Professor Richa Gupta and others.
+ece department professors,faculty_query,Professors in ECE department include Professor Shweta Srivastava Professor Arti Noor Professor Jitendra Mohan Professor Sajai Vir Singh Professor Vineet Khandelwal Professor Vivek Dwivedi Professor Ashish Goel Professor Vijay Khare Professor Jasmine Saini Professor Alok Joshi Professor Bhartendu Chaturvedi Professor Megha Agarwal Professor Richa Gupta.
+faculty list of electronics and communication department,faculty_query,The Electronics and Communication Engineering department has faculty such as Professor Shweta Srivastava Professor Arti Noor Professor Jitendra Mohan Professor Sajai Vir Singh Professor Vineet Khandelwal Professor Vivek Dwivedi Professor Ashish Goel Professor Vijay Khare Professor Jasmine Saini Professor Alok Joshi Professor Bhartendu Chaturvedi Professor Megha Agarwal Professor Richa Gupta and others.
+who are professors in ece,faculty_query,Professors in ECE include Shweta Srivastava Arti Noor Jitendra Mohan Sajai Vir Singh Vineet Khandelwal Vivek Dwivedi Ashish Goel Vijay Khare Jasmine Saini Alok Joshi Bhartendu Chaturvedi Megha Agarwal and Richa Gupta.
+ece department staff,faculty_query,The ECE department staff includes senior professors associate professors and assistant professors such as Shweta Srivastava Arti Noor Jitendra Mohan Sajai Vir Singh Vineet Khandelwal Vivek Dwivedi Ashish Goel Vijay Khare Jasmine Saini Alok Joshi Bhartendu Chaturvedi Megha Agarwal and Richa Gupta.
+teachers in electronics department,faculty_query,Teachers in the electronics and communication department include Shweta Srivastava Arti Noor Jitendra Mohan Sajai Vir Singh Vineet Khandelwal Vivek Dwivedi Ashish Goel Vijay Khare Jasmine Saini Alok Joshi Bhartendu Chaturvedi Megha Agarwal Richa Gupta and others.
+who all are in ece faculty,faculty_query,The ECE faculty includes Shweta Srivastava Arti Noor Jitendra Mohan Sajai Vir Singh Vineet Khandelwal Vivek Dwivedi Ashish Goel Vijay Khare Jasmine Saini Alok Joshi Bhartendu Chaturvedi Megha Agarwal Richa Gupta and other associate and assistant professors.
+
+who is professor jitendra mohan,faculty_query,Professor Jitendra Mohan is a faculty member and department coordinator in the Electronics and Communication Engineering department at JIIT.
+who is bhartendu chaturvedi,faculty_query,Professor Bhartendu Chaturvedi is a faculty member in ECE department at JIIT.
+who is aarti noor,faculty_query,Professor Aarti Noor is the Head of Department of ECE at JIIT.
+
+who is hod of ece,faculty_query,The Head of Department of ECE is Professor Aarti Noor.
+who is coordinator of ece,faculty_query,The department coordinator of ECE is Professor Jitendra Mohan.
+
+who is shweta srivastava,faculty_query,Professor Shweta Srivastava is Dean Academic and Research and Head of the Department of Electronics and Communication Engineering at JIIT with over 24 years of experience in teaching and research.
+who is prof shweta srivastava,faculty_query,Professor Shweta Srivastava is Dean Academic and Research and HoD of ECE at JIIT and an expert in microwave engineering and antenna design.
+tell me about shweta srivastava,faculty_query,Professor Shweta Srivastava is a senior faculty member at JIIT serving as Dean Academic and Research and Head of ECE department with extensive research in antennas microwave engineering and wireless communication.
+details of shweta srivastava,faculty_query,Professor Shweta Srivastava completed her PhD from IIT BHU and has over 24 years of experience in teaching and research in electronics and communication engineering.
+what is the role of shweta srivastava,faculty_query,Professor Shweta Srivastava is Dean Academic and Research and Head of the ECE department at JIIT.
+who is hod of ece,faculty_query,The Head of Department of Electronics and Communication Engineering at JIIT is Professor Shweta Srivastava.
+who is dean of ece,faculty_query,Professor Shweta Srivastava is the Dean Academic and Research and HoD of the ECE department at JIIT.
+shweta srivastava jiit,faculty_query,Professor Shweta Srivastava is a senior professor at JIIT and serves as Dean Academic and Research and Head of ECE department.
+professor shweta srivastava research,faculty_query,Professor Shweta Srivastava works in areas such as microwave engineering antennas substrate integrated waveguides RF filters and wireless communication systems.
+what does shweta srivastava work on,faculty_query,Her research areas include microstrip antennas smart antennas millimeter wave antennas microwave integrated circuits and RF filter design.
+
+who is arti noor,faculty_query,Professor Arti Noor is Dean Academic Affairs at JIIT Sector 128 with over 33 years of experience in research and academics and holds a PhD from IIT BHU Varanasi.
+who is dr arti noor,faculty_query,Dr Arti Noor is Dean Academic Affairs at JIIT Sector 128 and completed her PhD from IIT BHU with extensive experience in VLSI design and cyber security.
+tell me about arti noor,faculty_query,Dr Arti Noor is a senior academician with a PhD from IIT BHU and over 33 years of experience and currently serves as Dean Academic Affairs at JIIT Sector 128.
+arti noor jiit,faculty_query,Professor Arti Noor is Dean Academic Affairs at JIIT Sector 128 and has worked in CEERI Pilani CDAC Noida and academia for over three decades.
+what is the role of arti noor,faculty_query,Dr Arti Noor is the Dean Academic Affairs at JIIT Sector 128.
+what is qualification of arti noor,faculty_query,Dr Arti Noor holds a PhD from IIT BHU Varanasi.
+education of arti noor,faculty_query,Dr Arti Noor completed her PhD from IIT BHU Varanasi in electronics and communication domain.
+experience of arti noor,faculty_query,Dr Arti Noor has more than 33 years of experience in research academics and industry including CEERI and CDAC.
+arti noor research area,faculty_query,Her research areas include VLSI design low power circuits hardware design and cyber security.
+what does arti noor work on,faculty_query,Dr Arti Noor works in areas such as VLSI design hardware systems cyber security and education technology.
+
+which book is recommended for telecommunication networks,book_query,The recommended book for Telecommunication Networks is "Telecommunication Switching Systems and Networks" by Thiagarajan Viswanathan.
+what book should i use for vlsi design,book_query,The recommended book for VLSI Design is "CMOS Digital Integrated Circuit" by Sung-Mo Kang. Leblebici. and Kim.
+which book is best for cyber security,book_query,The recommended book for Cyber Security is "Cyber Security" by Dr. Kamlesh Bajaj (Data Security Council of India).
+what book is used for cryptography and its applications,book_query,The recommended book for Cryptography and its Applications is "Cryptography and Network Security" by Behrouz A. Forouzan.
+which book is recommended for electrical science 2,book_query,The recommended book for Electrical Science-2 is "Introduction to Electric Circuits" by R. C. Dorf and James A. Svoboda.
+what is the best book for signals and systems,book_query,The recommended book for Signals and Systems is "Signals and Systems" by A. V. Oppenheim. A. S. Willsky. and S. H. Nawab.
+which book should i study for digital circuit design,book_query,The recommended book for Digital Circuit Design is "Digital Logic and Computer Design" by M. Morris Mano.
+what book is used for probability and random processes,book_query,The recommended book for Probability and Random Processes is "Probability. Statistics and Random Processes" by T. Veerarajan.
+which book is recommended for economics,book_query,The recommended book for Economics is "Managerial Economics" by H. C. Petersen and W. C. Lewis.
+what book is best for microprocessors and microcontrollers,book_query,The recommended book for Microprocessors and Microcontrollers is "The 8051 Microcontroller and Embedded Systems Using Assembly and C" by Muhammad Ali Mazidi.
+which book should i refer for information theory,book_query,The recommended book for Information Theory is "Information Theory" by R. B. Ash.
+what book is used for electromagnetic field theory,book_query,The recommended book for Electromagnetic Field Theory is "Principles of Electromagnetics" by M. N. O. Sadiku.
+which book is recommended for digital image processing,book_query,The recommended book for Digital Image Processing is "Digital Image Processing" by R. C. Gonzalez and R. E. Woods.
+what book is best for power electronics,book_query,The recommended book for Power Electronics is "Power Electronics" by P. S. Bimbhra.
+which book should i use for data structures and algorithms,book_query,The recommended book for Data Structures and Algorithms is "Data Structures and Algorithms in C++" by Adam Drozdek.
+what book is recommended for positive psychology,book_query,The recommended book for Positive Psychology is "Positive Psychology: The Scientific and Practical Explorations of Human Strengths" by C. R. Snyder. S. J. Lopez. and J. T. Pedrotti.
+which book is best for financial management,book_query,The recommended book for Financial Management is "Financial Management" by I. M. Pandey.
+what book should i refer for marketing management,book_query,The recommended book for Marketing Management is "Marketing Management" by Philip Kotler and Kevin Lane Keller.
+which book is recommended for human resource management,book_query,The recommended book for Human Resource Management is "Human Resource Management" by Gary Dessler.
+what book is best for organizational behaviour,book_query,The recommended book for Organizational Behaviour is "Organizational Behavior" by Stephen P. Robbins and Timothy A. Judge.
+which book should i study for operations management,book_query,The recommended book for Operations Management is "Operations Management" by William J. Stevenson.
+what book is recommended for laser technology,book_query,The recommended book for Laser Technology is "Lasers and Electro-Optics" by Christopher C. Davis.
+which book is best for nuclear science and engineering,book_query,The recommended book for Nuclear Science and Engineering is "Introduction to Nuclear Engineering" by John R. Lamarsh and Anthony Baratta.
+what book is used for optical fiber communication,book_query,The recommended book for Optical Fiber Communication is "Optical Fiber Communications" by Gerd Keiser.
+which book is recommended for satellite communication,book_query,The recommended book for Satellite Communication is "Satellite Communications" by Timothy Pratt. Charles Bostian. and Jeremy Allnutt.
+what book is best for radar engineering,book_query,The recommended book for Radar Engineering is "Introduction to Radar Systems" by Merrill I. Skolnik.
+which book should i use for microwave engineering,book_query,The recommended book for Microwave Engineering is "Microwave Engineering" by David M. Pozar.
+which book is recommended for discrete mathematics,book_query,The recommended book for Discrete Mathematics is "Discrete Mathematics" by Lipschutz and Lipson.
+what book is best for theory of numbers,book_query,The recommended book for Theory of Numbers is "Elementary Number Theory" by James Strayer.
+what book is used for quantum mechanics,book_query,The recommended book for Quantum Mechanics is "Quantum Mechanics: A New Introduction" by Kenichi Konishi and G. Paffuti.
+which book is recommended for materials science,book_query,The recommended book for Materials Science is "Solid State Physics" by S. O. Pillai.
+what book is best for statistical information theory,book_query,The recommended book for Statistical Information Theory is "Information Theory. Coding and Cryptography" by R. Bose.
+what book should i study for entrepreneurship development,book_query,The recommended book for Entrepreneurship Development is "Entrepreneurship" by Robert D. Hisrich. Michael P. Peters. and Dean A. Shepherd.
+what book is recommended for logical reasoning and inequalities,book_query,The recommended book for Logical Reasoning and Inequalities is "Mathematical Inequalities" by Cerone and Dragomir.
+which book is best for indian constitution,book_query,The recommended book for Indian Constitution is "Important Judgements that Transformed India" by A. A. George.
+what book is used for management accounting,book_query,The recommended book for Management Accounting is "Introduction to Management Accounting" by Charles T. Horngren. Gary L. Sundem. Jeff O. Schatzberg. and Dave Burgstahler.
+what book is recommended for contemporary india,book_query,The recommended book for Contemporary India is "The Intelligent Person's Guide to Liberalization" by Amit Bhaduri and Deepak Nayyar.
+what book is best for civil society political regimes and conflict,book_query,The recommended book for Civil Society. Political Regimes. and Conflict is "Overview of Civil Society Organizations: India" by the Asian Development Bank.
+which book should i use for matrix computations,book_query,The recommended book for Matrix Computations is "Matrix Methods: An Introduction" by Bronson.
+what book is recommended for numerical methods,book_query,The recommended book for Numerical Methods is "Applied Numerical Analysis" by C. F. Gerald and P. O. Wheatley.
+which book is best for english communication,book_query,The recommended book for English is "Business Communication Today" by C. L. Bovee. J. V. Thill. and M. Chaturvedi.
+what book should i study for c programming,book_query,The recommended book for C Programming is "C How to Program" by Paul Deitel and Harvey Deitel.
+which book is recommended for physics 1 optics,book_query,The recommended book for Physics-1 (Optics) is "Optics" by A. K. Ghatak.
+what book is best for mathematics 1,book_query,The recommended book for Mathematics-1 is "Advanced Engineering Mathematics" by R. K. Jain and S. R. K. Iyengar.
+which book should i use for basic electronics,book_query,The recommended book for Basic Electronics is "Electronic Devices and Circuit Theory" by R. L. Boylestad and L. Nashelsky.
